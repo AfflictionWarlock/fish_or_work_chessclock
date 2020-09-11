@@ -4,6 +4,9 @@ A simplest chessclock-like time recorder. It is used for increasing the guilt wh
 
 摸鱼计时器
 
+棋钟式轮流计时的带界面的程序。可以统计摸鱼时间和干活时间。
+
+
 最简陋的界面，最简单的用法，统计今天又摸了多久的鱼，今天又干了几分钟的事。
 
 本来我是想买个棋钟的，无奈价格太贵了，于是苦学2天qt，摸索出这么一个简陋的程序。
